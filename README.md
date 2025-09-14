@@ -19,17 +19,20 @@ The initial dataset contained several data quality issues, including missing val
 ### 1. 'Mechanical' Failures are the Primary Cause of Downtime
 The analysis revealed that mechanical failures are overwhelmingly the largest source of lost production hours.
 
-<img width="1306" height="546" alt="Chart1" src="https://github.com/user-attachments/assets/87280218-5ffd-41a3-9e24-104594bafbaf" />
+<img width="1015" height="639" alt="Chart2" src="https://github.com/user-attachments/assets/24e7d8a9-bccf-4a80-a006-d13c9a238615" />
+
 
 ### 2. Lack of Maintenance is a Key Predictor of Failure
 A strong correlation was found between the number of days since the last maintenance and the occurrence of severe mechanical failures, with a sharp increase in risk after 90 days.
 
-<img width="1015" height="639" alt="Chart2" src="https://github.com/user-attachments/assets/e3377fba-da7d-4722-9310-ae95d4a8d275" />
+<img width="1004" height="638" alt="chart3" src="https://github.com/user-attachments/assets/6e5912ec-54e0-4a19-b386-4b92499e0f04" />
+
 
 ### 3. Night Shift Shows Higher Operator Error Rates
 The 'Night' shift accounts for a disproportionately high percentage of operator errors, suggesting a potential issue with training or procedures.
 
-<img width="1004" height="638" alt="chart3" src="https://github.com/user-attachments/assets/db5574e0-6bfd-4d7c-abec-1732c2a5a8a3" />
+<img width="557" height="509" alt="chart4" src="https://github.com/user-attachments/assets/37e527d3-24a9-44b0-acaa-6a5914bf20ef" />
+
 
 ---
 
